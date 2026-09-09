@@ -39,3 +39,4 @@ This returns all your tasks as JSON.
 Go to http://localhost:8000/docs
 
 You can test all endpoints there with buttons. No terminal needed.
+![Swagger UI](swagger-ui.png)
